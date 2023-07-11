@@ -1,0 +1,1 @@
+Exemplo simples da definição de classes e métodos abstratos.
